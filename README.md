@@ -1,1 +1,0 @@
-# VatamanuFlorina_DjangoProject
